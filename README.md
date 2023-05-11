@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Surya
-- 👀 love for frontend but married to backend
-- 🌱 Recently started my carrier as SDE at Amdocs.
+- 👀 Always my vote for frontend
+- 🌱 portfolio - https://surya-prakash-portfolio.netlify.app
 - 📫 Reach me at @heysuryaaaa
 
 <!---
