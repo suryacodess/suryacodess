@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Surya
 - 👀 Always my vote for frontend
-- 🌱 portfolio - https://surya-prakash-portfolio.netlify.app (in progress...)
+- 🌱 portfolio - https://suryadev.netlify.app
 - ✨ resume - https://suryaprakashsrigada.netlify.app
 - 📫 Reach me at insta @heysuryaaaa and at twitter @heysuryaaaa
 
